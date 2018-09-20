@@ -1,1 +1,6 @@
-{}
+[
+{
+  "ParameterKey":"IntegrationEndpoint",
+  "ParameterValue":"https://demo-api.connect.awslabs.net/v1/pets"
+}
+]
